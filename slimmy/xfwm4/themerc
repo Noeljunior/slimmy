@@ -1,0 +1,15 @@
+active_text_color=#eeeecc
+button_offset=0
+button_spacing=2
+full_width_title=false
+maximized_offset=5
+shadow_delta_height=4
+shadow_delta_width=1
+shadow_delta_x=1
+shadow_delta_y=1
+show_app_icon=false
+title_horizontal_offset=4
+title_shadow_active=frame
+title_shadow_inactive=false
+title_vertical_offset_active=5
+title_vertical_offset_inactive=5
